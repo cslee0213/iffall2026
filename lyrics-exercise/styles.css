@@ -1,0 +1,54 @@
+ body {
+    background: linear-gradient(90deg, #000314 18%, #012e4c 100%);
+    text-align: center;
+ }
+ .league-script-regular {
+  font-family: "League Script";
+  font-weight: 400;
+  font-style: normal;
+}
+ .kaisei-harunoumi-regular {
+  font-family: "Kaisei HarunoUmi", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.kaisei-harunoumi-medium {
+  font-family: "Kaisei HarunoUmi", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.kaisei-harunoumi-bold {
+  font-family: "Kaisei HarunoUmi", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+iframe {
+   padding-top: 10%;
+}
+ h1 {
+    font-family:"League Script"; 
+    font-size: 140px;
+    margin:auto;
+    padding-top: 5%;
+    color: rgb(211, 223, 255);
+ }
+ h2 {
+   font-family:"League Script"; 
+   color: rgb(170, 209, 248);
+   font-size: 50px;
+   font-weight: 600;
+ }
+ section {
+   padding-top: 10px;
+ }
+ p {
+   font-family:"Kaisei HarunoUmi";
+   color:rgb(200, 218, 235);
+ }
+ h3 {
+   font-family:"Kaisei HarunoUmi";
+   color:rgb(200, 218, 235);
+ }
+ div {
+   padding-bottom: 70px;
+ }
