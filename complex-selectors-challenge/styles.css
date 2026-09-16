@@ -4,7 +4,7 @@ header {
 p {
     line-height: 1.6;
 }
-link.see-all {
+.see-all {
     font-size: 0.8 em;
     text-transform: uppercase;
 }
