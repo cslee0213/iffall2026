@@ -1,0 +1,60 @@
+body {
+    padding-left: 100px;
+    padding-right: 200px;
+    background-color: rgb(220, 252, 220);
+}
+header {
+    padding-top: 100px;
+}
+section {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h1 {
+    font-size: 40px;
+    color:rgb(56, 73, 27)
+}
+h2 {
+    font-weight: normal;
+    line-height: 25px;
+    color:rgb(91, 123, 36)
+}
+h3 {
+    font-size: 18px;
+    color:rgb(56, 73, 27)
+}
+h4 {
+    font-size: 25px;
+    color:rgb(56, 73, 27)
+}
+.ingredients li {
+    padding-bottom: 5px;
+    font-size: 20px;
+    color:rgb(91, 123, 36)
+}
+.recipe li {
+    padding-bottom: 10px;
+    font-size: 20px;
+    color:rgb(91, 123, 36)
+}
+.images-captions {
+    display: flex;
+}
+.images-captions img{
+    padding-top: 10px;
+}
+.images-captions figcaption {
+    font-size: 20px;
+    color:rgb(91, 123, 36)
+}
+p {
+    font-size: 20px;
+    color:rgb(91, 123, 36)
+}
+a {
+    font-size: 20px;
+    color:rgb(54, 151, 63)
+}
+footer {
+    padding: 30px;
+}
