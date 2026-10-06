@@ -1,0 +1,105 @@
+* {
+    font-family: "Archivo Narrow";
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    min-height: 2399px;
+    display: block;
+    background-position: center top;
+}
+.hero {
+    text-align: center;
+    align-content: center;
+    height: 480px;
+    background-image: url(background-image.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.hero h1 {
+    font-size: 80px;
+}
+.hero h2 {
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+.second {
+    height: 717px;
+    background-color: aliceblue;
+}
+h3 {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 40px;
+    padding-bottom: 36px;
+
+}
+p{
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+.second img {
+    float: right;
+    padding-right: 22%;
+    margin-left: 25px;
+    margin-bottom: 32px;
+
+}
+.main-paragraph {
+    align-items: center;
+    line-height: 25px;
+    width: 56%;
+    margin-left: 22%;
+}
+.third {
+    height: 690px;
+    background-color: rgb(231, 231, 208);
+}
+.third h4 {
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+.third .image-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 450px);
+    justify-content: center;
+    gap: 23px;
+    padding-right: 25px;
+}
+.third .photo-caption {
+    display: flex;
+    gap: 10px;
+    flex-wrap: nowrap;
+}
+.third .photo-caption img {
+    width: 200px;
+    height: auto;
+    object-fit: cover;
+}
+
+.third .caption {
+    width: 42%;
+    flex-shrink: 0;
+}
+.fourth {
+    height: 415px;
+    background-color: rgb(188, 217, 255);
+}
+.fourth p {
+    text-align:center;
+    width: 41.5%;
+    margin: auto;
+    line-height: 35px;
+    font-size: 26.5px;
+}
+footer {
+    height: 200px;
+    background-color: rgb(254, 228, 181)
+}
+footer p{
+    padding-top: 31px;
+    padding-left: 21.7%;
+}
