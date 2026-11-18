@@ -930,6 +930,7 @@ body.p-beyond {
     justify-self: start;
   }
 }
+
 .p-home .nav {
   position: fixed;
   top: 0;
@@ -957,6 +958,7 @@ body.p-beyond {
   width: max(30vw, 42.2svh);
   max-width: 90vw;
 }
+
 @media (min-width: 761px) {
   .opener.with-pic,
   .article {
